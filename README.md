@@ -72,7 +72,7 @@ Permite detectar dispositivos activos dentro de una red local.
 
 Analiza los puertos abiertos de un host objetivo utilizando sockets TCP.
 
-![Escaneo TCP](imagenes/2tcpscan.png)
+![Escaneo TCP](imagenes/2tcpsan.png)
 
 ---
 
