@@ -1,4 +1,4 @@
-[README.txt](https://github.com/user-attachments/files/28145641/README.txt)
+[README.txt](https://github.com/user-attachments/files/28145783/README.txt)
 #  NetScanner
 
 Herramienta de análisis de red desarrollada en Python para entornos de laboratorio y redes autorizadas.
@@ -39,7 +39,7 @@ Uso
 Ejecutar el programa:
 
 python3 netscanner.py
-📋 Menú principal
+  Menú principal
 1 → Escaneo de hosts (ping sweep)
 2 → Escaneo de puertos TCP
 3 → Escaneo con Nmap
@@ -52,6 +52,13 @@ python3 netscanner.py
 H → Historial
 E → Exportar resultados
 Q → Salir
+
+![Menú principal](menu.png)
+<img width="735" height="566" alt="menu" src="https://github.com/user-attachments/assets/c713a966-f354-4803-8b39-ea8aa0f24a3a" />
+
+
+
+
 
 Aviso legal
 
