@@ -1,4 +1,5 @@
-
+##  Menu principal
+![Menu](imagenes/menu.png)
 [README.txt](https://github.com/user-attachments/files/28145783/README.txt)
 #  NetScanner
 
@@ -55,8 +56,7 @@ E → Exportar resultados
 Q → Salir
 
 ```
-##  Menu principal
-![Menu](imagenes/menu.png)
+
 Aviso legal
 
 Esta herramienta debe utilizarse únicamente en redes propias o con autorización explícita. El uso no autorizado puede ser ilegal.
