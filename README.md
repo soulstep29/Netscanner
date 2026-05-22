@@ -53,8 +53,10 @@ H → Historial
 E → Exportar resultados
 Q → Salir
 
-![Menú principal](menu.png)
-<img width="735" height="566" alt="menu" src="https://github.com/user-attachments/assets/c713a966-f354-4803-8b39-ea8aa0f24a3a" />
+##  Menú principal
+
+![Menu](menu.png)
+
 
 
 
