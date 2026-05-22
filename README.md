@@ -72,7 +72,7 @@ Permite detectar dispositivos activos dentro de una red local.
 
 Analiza los puertos abiertos de un host objetivo utilizando sockets TCP.
 
-![Escaneo TCP](imagenes/2_Escaneo_de_puertos_TCP.png)
+![Escaneo TCP](imagenes/2tcpscan.png)
 
 ---
 
@@ -80,7 +80,7 @@ Analiza los puertos abiertos de un host objetivo utilizando sockets TCP.
 
 Ejecuta escaneos avanzados mediante integración con Nmap.
 
-![Nmap Scan](imagenes/3_Escaneo_nmap.png)
+![Nmap Scan](imagenes/3nmapscan.png)
 
 ---
 
@@ -88,7 +88,7 @@ Ejecuta escaneos avanzados mediante integración con Nmap.
 
 Obtiene información básica de los servicios detectados.
 
-![Banner Grabbing](imagenes/4_Escaneo_de_puertos.png)
+![Banner Grabbing](imagenes/4banner.png)
 
 ---
 
@@ -96,7 +96,7 @@ Obtiene información básica de los servicios detectados.
 
 Muestra información básica del sistema y entorno de ejecución.
 
-![System Info](imagenes/5_Info_del_dispositivo.png)
+![System Info](imagenes/5systeminfo.png)
 
 ---
 
@@ -104,7 +104,7 @@ Muestra información básica del sistema y entorno de ejecución.
 
 Permite comprobar conectividad y estado básico de red.
 
-![Diagnóstico](imagenes/6_Diagnostico_de_red.png)
+![Diagnóstico](imagenes/6networkdiag.png)
 
 ---
 
@@ -112,7 +112,7 @@ Permite comprobar conectividad y estado básico de red.
 
 Realiza análisis rápido sobre puertos habituales.
 
-![Puertos comunes](imagenes/7_Escaneo_de_Puertos.png)
+![Puertos comunes](imagenes/7commonports.png)
 
 ---
 
@@ -120,7 +120,7 @@ Realiza análisis rápido sobre puertos habituales.
 
 Utiliza Nmap para detectar el sistema operativo del host objetivo.
 
-![OS Detection](imagenes/8_Escaneo_Nmap.png)
+![OS Detection](imagenes/8osdetect.png)
 
 ---
 
@@ -128,7 +128,7 @@ Utiliza Nmap para detectar el sistema operativo del host objetivo.
 
 Permite realizar análisis completos sobre una IP o red específica.
 
-![Target Scan](imagenes/9_Escaneo_redes_externas.png)
+![Target Scan](imagenes/9target.png)
 
 
 Estas funcionalidades permiten automatizar tareas básicas de reconocimiento y análisis de red desde una única interfaz CLI sencilla y organizada.
