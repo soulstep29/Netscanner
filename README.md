@@ -64,7 +64,7 @@ NetScanner incorpora diferentes funcionalidades orientadas a la auditoría bási
 
 Permite detectar dispositivos activos dentro de una red local.
 
-![Ping Sweep](imagenes/1_Escaneo_de_Hosts.png)
+![Ping Sweep](imagenes/1pingsweep.png)
 
 ---
 
